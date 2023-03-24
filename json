@@ -4668,7 +4668,7 @@
         "g": "9d0f572b4aa1aba2",
         "name": "",
         "group": "067a41fe6b8deb07",
-        "order": 10,
+        "order": 5,
         "width": 6,
         "height": 1,
         "passthru": false,
@@ -4844,7 +4844,7 @@
         "g": "9d0f572b4aa1aba2",
         "name": "",
         "group": "067a41fe6b8deb07",
-        "order": 15,
+        "order": 10,
         "width": 6,
         "height": 1,
         "passthru": false,
@@ -8055,7 +8055,7 @@
         "tooltip": "",
         "place": "Offline notificatie",
         "group": "067a41fe6b8deb07",
-        "order": 14,
+        "order": 9,
         "width": 6,
         "height": 1,
         "passthru": true,
@@ -8094,7 +8094,7 @@
         "tooltip": "",
         "place": "",
         "group": "067a41fe6b8deb07",
-        "order": 9,
+        "order": 4,
         "width": 6,
         "height": 1,
         "passthru": true,
@@ -8230,7 +8230,7 @@
         "g": "04acacbecb0f84cc",
         "group": "067a41fe6b8deb07",
         "name": "Zigbee tabel",
-        "order": 16,
+        "order": 15,
         "width": 30,
         "height": 10,
         "columns": [
@@ -9671,7 +9671,7 @@
         "label": "IDX optie 5",
         "tooltip": "",
         "group": "067a41fe6b8deb07",
-        "order": 8,
+        "order": 13,
         "width": 6,
         "height": 1,
         "passthru": true,
@@ -10590,27 +10590,17 @@
         ]
     },
     {
-        "id": "5052d3c0abbdcf35",
+        "id": "f6d80247ef4490ac",
         "type": "ui_spacer",
         "z": "3c1abf359e6df878",
         "name": "spacer",
         "group": "067a41fe6b8deb07",
-        "order": 5,
-        "width": 6,
+        "order": 14,
+        "width": 12,
         "height": 1
     },
     {
-        "id": "769fcc17242cd8be",
-        "type": "ui_spacer",
-        "z": "3c1abf359e6df878",
-        "name": "spacer",
-        "group": "067a41fe6b8deb07",
-        "order": 13,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "64f0aa20013d8b47",
+        "id": "2441a664ac3cb3a1",
         "type": "ui_spacer",
         "z": "3c1abf359e6df878",
         "name": "spacer",
@@ -10620,7 +10610,7 @@
         "height": 1
     },
     {
-        "id": "99def82ed22605b5",
+        "id": "505eb0154b7e74d4",
         "type": "ui_spacer",
         "z": "3c1abf359e6df878",
         "name": "spacer",
@@ -10630,7 +10620,7 @@
         "height": 1
     },
     {
-        "id": "0bf9e15f5d4563f6",
+        "id": "d3717f81530bcbc1",
         "type": "ui_spacer",
         "z": "3c1abf359e6df878",
         "name": "spacer",
@@ -10640,7 +10630,7 @@
         "height": 1
     },
     {
-        "id": "0f2c0d3657063e2f",
+        "id": "3bceb8b8f9338f0e",
         "type": "ui_spacer",
         "z": "3c1abf359e6df878",
         "name": "spacer",
