@@ -66,7 +66,7 @@
             "bcfca4459487c695"
         ],
         "x": 34,
-        "y": 3199,
+        "y": 3219,
         "w": 1353,
         "h": 262
     },
@@ -147,7 +147,7 @@
             "6f2e76b61cacc33d"
         ],
         "x": 34,
-        "y": 2679,
+        "y": 2699,
         "w": 1432,
         "h": 282
     },
@@ -170,8 +170,8 @@
             "1e7956c3f9abbb41",
             "a8b0c83b08b5b798"
         ],
-        "x": 2354,
-        "y": 279,
+        "x": 2414,
+        "y": 539,
         "w": 932,
         "h": 122
     },
@@ -203,8 +203,8 @@
             "b6977d35b71e17ba",
             "22e0a3f2fcfd8827"
         ],
-        "x": 2354,
-        "y": 639,
+        "x": 2414,
+        "y": 899,
         "w": 932,
         "h": 242
     },
@@ -225,8 +225,8 @@
             "855afc849e4e07ba",
             "cd524ca6d9fb70e5"
         ],
-        "x": 2354,
-        "y": 891.5,
+        "x": 2414,
+        "y": 1151.5,
         "w": 892,
         "h": 97
     },
@@ -256,8 +256,8 @@
             "693c955e6cf5cdbb",
             "47872c93833c55aa"
         ],
-        "x": 2354,
-        "y": 999,
+        "x": 2414,
+        "y": 1259,
         "w": 952,
         "h": 202
     },
@@ -337,8 +337,8 @@
             "289cb822f5a1ad74",
             "303abee8859d7178"
         ],
-        "x": 2354,
-        "y": 1219,
+        "x": 2414,
+        "y": 1479,
         "w": 992,
         "h": 362
     },
@@ -362,8 +362,8 @@
             "2b57dfa562575fb1",
             "8e309c4915312ec0"
         ],
-        "x": 2354,
-        "y": 1599,
+        "x": 2414,
+        "y": 1859,
         "w": 952,
         "h": 122
     },
@@ -633,7 +633,7 @@
             "1aa46d9667bcf55b"
         ],
         "x": 34,
-        "y": 2979,
+        "y": 2999,
         "w": 1372,
         "h": 202
     },
@@ -664,8 +664,8 @@
             "5a804b927b966214",
             "2e499290ea8e9d20"
         ],
-        "x": 2354,
-        "y": 419,
+        "x": 2414,
+        "y": 679,
         "w": 932,
         "h": 202
     },
@@ -803,8 +803,8 @@
             "83b3ad54f095fa2f",
             "8a1174008e15e359"
         ],
-        "x": 2354,
-        "y": 1739,
+        "x": 2414,
+        "y": 1999,
         "w": 972,
         "h": 82
     },
@@ -851,9 +851,9 @@
             "c28e1d455bfdd201",
             "f1beec20c9c89685"
         ],
-        "x": 964,
-        "y": 139,
-        "w": 982,
+        "x": 2414,
+        "y": 39,
+        "w": 992,
         "h": 482
     },
     {
@@ -874,8 +874,8 @@
         "links": [
             "165c02712f3be090"
         ],
-        "x": 3475,
-        "y": 160,
+        "x": 1765,
+        "y": 580,
         "wires": [
             [
                 "38d81194cb2dc0ab"
@@ -896,8 +896,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3110,
-        "y": 940,
+        "x": 3170,
+        "y": 1200,
         "wires": []
     },
     {
@@ -914,8 +914,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3120,
-        "y": 720,
+        "x": 3180,
+        "y": 980,
         "wires": []
     },
     {
@@ -932,8 +932,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3120,
-        "y": 320,
+        "x": 3180,
+        "y": 580,
         "wires": []
     },
     {
@@ -945,8 +945,8 @@
         "links": [
             "e1ff2de83f9489a5"
         ],
-        "x": 2975,
-        "y": 940,
+        "x": 3035,
+        "y": 1200,
         "wires": [
             [
                 "34cb19758421819a"
@@ -964,8 +964,8 @@
             "f823747d66d9026e",
             "2b842f86e3188add"
         ],
-        "x": 2905,
-        "y": 940,
+        "x": 2965,
+        "y": 1200,
         "wires": []
     },
     {
@@ -977,8 +977,8 @@
         "links": [
             "54aecbceaa8fc8a8"
         ],
-        "x": 2975,
-        "y": 720,
+        "x": 3035,
+        "y": 980,
         "wires": [
             [
                 "8fe122afb9794fac"
@@ -997,8 +997,8 @@
             "3e65177545f26e89",
             "4c242ca317c2b3c4"
         ],
-        "x": 2655,
-        "y": 720,
+        "x": 2715,
+        "y": 980,
         "wires": []
     },
     {
@@ -1010,8 +1010,8 @@
         "links": [
             "a9a40afb90f39708"
         ],
-        "x": 2975,
-        "y": 320,
+        "x": 3035,
+        "y": 580,
         "wires": [
             [
                 "c76c62c4b7eab95f"
@@ -1029,8 +1029,8 @@
             "3123ca787474829f",
             "b21a01ac9c8c45e3"
         ],
-        "x": 2655,
-        "y": 320,
+        "x": 2715,
+        "y": 580,
         "wires": []
     },
     {
@@ -1061,17 +1061,17 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 2470,
-        "y": 240,
+        "x": 2070,
+        "y": 660,
         "wires": []
     },
     {
         "id": "595f6ca5c4e49fed",
         "type": "comment",
         "z": "3c1abf359e6df878",
-        "name": "V_14-03-2023_R1_beta",
-        "info": "14-03-2023 R1 beta:\n- Toegevoegd: Philips hue lux A19 bulb E27 (niet getest)\n12-03-2023 R1 beta:\n- Toegevoegd: Tuya TS011F powerplug (niet getest)\n- Gewijzigd: Enkele teksten aangepast in UI, om meer duidelijkheid te krijgen\n08-03-2023 R1:\n- Toegevoegd: Stuur telegram bericht als batterij percentage onder threshold waarde komt\n06-03-2023 R1:\n- Toegevoegd: Device Offline, optioneel instelbaar geeft dit een telegram bericht. \n05-03-2023 R1:\n- Aangepast: Trigger interval tbv telegram bericht batterij laag melding toegevoegd (1x per 24uur)\n  Opmerking: Palette node \"node-red-contrib-schedex\" moet worden geinstalleerd in nodered.\n04-03-2023 R1:\n- Toegevoegd: Stuur telegram bericht als batterij voltage onder threshold waarde komt\n16-01-2023 R1:\n- Aanpassing: flow geschikt gemaakt voor Nodered release V2.X.X en V3.X.X\n13-01-2023 R1:\n- Bug: Save data folder werd te laat ingelezen, waardoor device restore fout liep.\n  Wat dient men na te kijken voor deze bug oplossing:\n  In flow staan links boven 2 nodes met de namen:\n    ** Pi file save location **\n    ** Docker file save location **\n  Pas de gewenste file voor jouw omgeving aan, naar een directory die betaat\n  In deze directory wordt de file \"zigbeeidxtabel.txt\" weggeschreven\n  Past men later de directory aan, dan moet \"zigbeeidxtabel.txt\" handmatig worden overgezet\n  \n  default \"Pi file save location\" = /home/pi/domoticz/plugins/tasmota2zigbee\n  default \"Docker file save location\" = /data/saved-files/tasmota2zigbee\n10-01-2023 R1:\n- Aanpassing: Flow aangepast, save data folder kan op 1 plek worden ingesteld\n25-12-2022 R1:\n- Aanpassing: Flow aangepast voor eenvouding aanpassen MQTT server\n03-12-2022 R1:\n- Toegevoegd: ZbLeave en ZbForget bij device verwijderen\n25-05-2022 R1:\n- Aanpassing: \"Endpoint\":1 toegevoegd aan Sonoff S26R2ZB\n- Aanpassing: Sonoff SNZB-02, bij missende data toch bericht versturen.\n- Aanpassing: Device namen worden beter in tabellen toegevoegd/verwijdert\n23-05-2021 R1:\n- Bug:        Domoticz commands voor sonoff werden niet gerouteerd in UI table\n22-05-2021 R1:\n- Toegevoegd: Sonoff SNZB-02\n19-05-2022 R1:\n- Toegevoegd: Sonoff S26R2ZB\n17-05-2022 R1:\n- Toegevoegd: Lidl HG06620 \n- Bug:        Variable vendor bug opgelost (Met dank aan Appiesan)\n24-04-2022 R1:\n- Aanpassing: Verwijderen device uit IDX-tabel vraagt eerst om bevestiging alvorens te verwijderen\n17-04-2022 R2:\n- Bug:        Wegschrijven naam bij set idx ging niet goed, werd bridge/zigbeeid getoond\n17-04-2022 R1:\n- Toegevoegd: Ikea motion E1525\n- Toegevoegd: Ikea motion E1745\n- Toegevoegd: Heiman rookmelder HS1SA\n- Toegevoegd: Sonoff motion SNZB-03\n- Aanpassing: Menu gebruiksvriendelijker gemaakt\n11-04-2022 R2:\n- Aanpassing: Check op ikea flow data, om error te voorkomen\n11-04-2022 R1:\n- Aanpassing: Lidl TS0601: idxextra werkte niet correct\n10-04-2022 R3:\n- Aanpassing: In \"Set idx nummers en idx tabel\" een aanpassing doorgevoerd\n10-04-2022 R2:\n- Toegevoegd: Button \"Hoe device instellen domoticz\"\n10-04-2022 R1:\n- Toegevoegd: Tuya switch 4-buttons\n09-04-2022 R2:\n- Toegevoegd: Lidl HG06335/HG07310 \n09-04-2022 R1:\n- Toegevoegd: Debug mqtt veld in UI\n- Toegevoegd: Xiaomi smart home cube\n- Aanpassing: Als IDX 0 is, dan gaat er geen bericht naar domoticz\n08-04-2022 R1:\n- Toegevoegd: Lidl HG06336\n- Toegevoegd: Lampen (RGB/CCT) lidl toegevoegd\n05-04-2022 R2:\n- Aanpassing: Lidl HG06106B, dat CT en RGB mogelijk is.\n05-04-2022 R1:\n- Toegevoegd: Lidl HG06106B\n01-04-2022 R1:\n- Aanpassing: Optie om de custom domoticz pagina in te stellen toegevoegd\n17-02-2022 R1: \n- Gestart met Versie nummers",
-        "x": 120,
+        "name": "V2_27-03-2023_R1_beta",
+        "info": "V2 27-03-2023 R1 Beta:\n- Beta test V2\n14-03-2023 R1 beta:\n- Toegevoegd: Philips hue lux A19 bulb E27 (niet getest)\n12-03-2023 R1 beta:\n- Toegevoegd: Tuya TS011F powerplug (niet getest)\n- Gewijzigd: Enkele teksten aangepast in UI, om meer duidelijkheid te krijgen\n08-03-2023 R1:\n- Toegevoegd: Stuur telegram bericht als batterij percentage onder threshold waarde komt\n06-03-2023 R1:\n- Toegevoegd: Device Offline, optioneel instelbaar geeft dit een telegram bericht. \n05-03-2023 R1:\n- Aangepast: Trigger interval tbv telegram bericht batterij laag melding toegevoegd (1x per 24uur)\n  Opmerking: Palette node \"node-red-contrib-schedex\" moet worden geinstalleerd in nodered.\n04-03-2023 R1:\n- Toegevoegd: Stuur telegram bericht als batterij voltage onder threshold waarde komt\n16-01-2023 R1:\n- Aanpassing: flow geschikt gemaakt voor Nodered release V2.X.X en V3.X.X\n13-01-2023 R1:\n- Bug: Save data folder werd te laat ingelezen, waardoor device restore fout liep.\n  Wat dient men na te kijken voor deze bug oplossing:\n  In flow staan links boven 2 nodes met de namen:\n    ** Pi file save location **\n    ** Docker file save location **\n  Pas de gewenste file voor jouw omgeving aan, naar een directory die betaat\n  In deze directory wordt de file \"zigbeeidxtabel.txt\" weggeschreven\n  Past men later de directory aan, dan moet \"zigbeeidxtabel.txt\" handmatig worden overgezet\n  \n  default \"Pi file save location\" = /home/pi/domoticz/plugins/tasmota2zigbee\n  default \"Docker file save location\" = /data/saved-files/tasmota2zigbee\n10-01-2023 R1:\n- Aanpassing: Flow aangepast, save data folder kan op 1 plek worden ingesteld\n25-12-2022 R1:\n- Aanpassing: Flow aangepast voor eenvouding aanpassen MQTT server\n03-12-2022 R1:\n- Toegevoegd: ZbLeave en ZbForget bij device verwijderen\n25-05-2022 R1:\n- Aanpassing: \"Endpoint\":1 toegevoegd aan Sonoff S26R2ZB\n- Aanpassing: Sonoff SNZB-02, bij missende data toch bericht versturen.\n- Aanpassing: Device namen worden beter in tabellen toegevoegd/verwijdert\n23-05-2021 R1:\n- Bug:        Domoticz commands voor sonoff werden niet gerouteerd in UI table\n22-05-2021 R1:\n- Toegevoegd: Sonoff SNZB-02\n19-05-2022 R1:\n- Toegevoegd: Sonoff S26R2ZB\n17-05-2022 R1:\n- Toegevoegd: Lidl HG06620 \n- Bug:        Variable vendor bug opgelost (Met dank aan Appiesan)\n24-04-2022 R1:\n- Aanpassing: Verwijderen device uit IDX-tabel vraagt eerst om bevestiging alvorens te verwijderen\n17-04-2022 R2:\n- Bug:        Wegschrijven naam bij set idx ging niet goed, werd bridge/zigbeeid getoond\n17-04-2022 R1:\n- Toegevoegd: Ikea motion E1525\n- Toegevoegd: Ikea motion E1745\n- Toegevoegd: Heiman rookmelder HS1SA\n- Toegevoegd: Sonoff motion SNZB-03\n- Aanpassing: Menu gebruiksvriendelijker gemaakt\n11-04-2022 R2:\n- Aanpassing: Check op ikea flow data, om error te voorkomen\n11-04-2022 R1:\n- Aanpassing: Lidl TS0601: idxextra werkte niet correct\n10-04-2022 R3:\n- Aanpassing: In \"Set idx nummers en idx tabel\" een aanpassing doorgevoerd\n10-04-2022 R2:\n- Toegevoegd: Button \"Hoe device instellen domoticz\"\n10-04-2022 R1:\n- Toegevoegd: Tuya switch 4-buttons\n09-04-2022 R2:\n- Toegevoegd: Lidl HG06335/HG07310 \n09-04-2022 R1:\n- Toegevoegd: Debug mqtt veld in UI\n- Toegevoegd: Xiaomi smart home cube\n- Aanpassing: Als IDX 0 is, dan gaat er geen bericht naar domoticz\n08-04-2022 R1:\n- Toegevoegd: Lidl HG06336\n- Toegevoegd: Lampen (RGB/CCT) lidl toegevoegd\n05-04-2022 R2:\n- Aanpassing: Lidl HG06106B, dat CT en RGB mogelijk is.\n05-04-2022 R1:\n- Toegevoegd: Lidl HG06106B\n01-04-2022 R1:\n- Aanpassing: Optie om de custom domoticz pagina in te stellen toegevoegd\n17-02-2022 R1: \n- Gestart met Versie nummers",
+        "x": 130,
         "y": 40,
         "wires": []
     },
@@ -1088,7 +1088,7 @@
         "finalize": "",
         "libs": [],
         "x": 390,
-        "y": 3300,
+        "y": 3320,
         "wires": [
             [
                 "c39ad7d28bcdc7d9",
@@ -1102,14 +1102,14 @@
         "z": "3c1abf359e6df878",
         "g": "56e6b148885b3805",
         "name": "store zigbee sensors",
-        "func": "var devs; \n\nif ( msg.src === 'restore' ) {\n    devs = flow.get(\"t2zdevices\") || {};\n    return [{payload:Object.values(devs)}, {payload:Object.values(devs)}];\n} else if (msg.payload.ZbReceived === undefined) {\n    return;\n} else {\n\n\n    // properties that should  show up in the status\n    var inStatus = [\"Contact\", \"Occupancy\", \"Power\", \"Power2\", \"Dimmer\", \"Hue\", \"CT\", \"ColorMode\", \"Sat\", \"RGB\", \"RGBb\", \"Temperature\", \"Humidity\", \"Pressure\", \"LocalTemperature\", \"OccupiedHeatingSetpoint\", \"PIHeatingDemand\", \"Illuminance\", \"AqaraVibrationMode\", \"AqaraVibrationsOrAngle\", \"AqaraVibration505\", \"ZoneStatusChange\", \"AqaraCube\", \"AqaraCubeSide\", \"AqaraCubeFromSide\", \"AqaraRotate\"];\n\n    // properties that should not show up in the status\n    var notStatus = [\"Device\", \"Name\", \"BatteryVoltage\", \"BatteryPercentage\", \"LinkQuality\", \"Endpoint\", \"bridge\", \"lastTime\", \"seen\", \"label\", \"status\", \"EurotronicErrors\", \"0201/4008\", \"Xiaomi_64\"];\n\n    //node.warn(msg.payload);\n    devs = flow.get(\"t2zdevices\") || {};\n\n    var update;\n    update = {payload:Object.values(devs)};\n\n    devt = flow.get(\"t2ztable\") || {};\n    var length = Object.keys(devt).length;\n    for ( var i = 0; i < length; i++ ) {\n        var keys = Object.keys(devt);\n        var IDkey = keys[i];\n        //var message = devs[IDkey].Device;\n        var message = devt[IDkey].zigbeeid;\n        //var messageidx = parseInt(devs[IDkey].idx);\n        if (msg.payload.ZbReceived[message]) {\n            if (devt[IDkey].vendors !== \"onbekend\") {\n                update = null;\n                //node.warn(message)\n            }\n        }\n        \n    }\n        \n\n\n\n\n    var receivedSensors = []\n    for (var devN in msg.payload.ZbReceived) {\n        let devInfo = msg.payload.ZbReceived[devN];\n        let ID = devInfo.Device;\n    \n        // get dev by ID\n        let dev = devs[ID] || {};\n\n        for (let prop in devInfo) {\n            dev[prop] = devInfo[prop];\n        }\n    \n        if (devInfo.Name!==undefined) {\n            dev.label = devInfo.Name;\n        } else {\n            dev.label = ID; \n        }\n        dev.bridge = msg.topic.split(\"/\")[1];\n        dev.lastTime = new Date().getTime();\n    \n        // create status from properties\n        let status = \"\";\n        for (let prop in dev) {\n            if (inStatus.includes(prop)) {\n                status += \" \"+prop+\": \"+ dev[prop]; \n            }\n        }\n        if (status === \"\") {\n            for (let prop in dev) {\n                if (! notStatus.includes(prop)) {\n                    status += \" \"+prop+\": \"+ dev[prop]; \n                }\n            }   \n        }\n        dev.status = status;\n    \n        // write back\n        devs[ID] = dev;\n       receivedSensors.push(dev);\n    }\n   \n    Object.entries(devs).forEach(element => element[1].seen = Math.round((new Date().getTime()-element[1].lastTime)/60000)+\"m\");\n    \n    flow.set(\"t2zdevices\", devs);\n\n    //return [{payload:Object.values(devs)}, {payload:receivedSensors}];\n    return [update, {payload:Object.values(devs)}];\n}",
+        "func": "let devs; \nlet status = \"update\";\n\nif ( msg.src === 'restore' ) {\n    devs = flow.get(\"t2zdevices\") || {};\n    return [{payload:Object.values(devs)}, {payload:Object.values(devs)}];\n} else if (msg.payload.ZbReceived === undefined) {\n    return;\n} else {\n\n    let checkname;\n    for (var devN in msg.payload.ZbReceived) {\n        checkname = msg.payload.ZbReceived[devN].Name;\n    }\n\n    // properties that should  show up in the status\n    let inStatus = [\"Contact\", \"Occupancy\", \"Power\", \"Power2\", \"Dimmer\", \"Hue\", \"CT\", \"ColorMode\", \"Sat\", \"RGB\", \"RGBb\", \"Temperature\", \"Humidity\", \"Pressure\", \"LocalTemperature\", \"OccupiedHeatingSetpoint\", \"PIHeatingDemand\", \"Illuminance\", \"AqaraVibrationMode\", \"AqaraVibrationsOrAngle\", \"AqaraVibration505\", \"ZoneStatusChange\", \"AqaraCube\", \"AqaraCubeSide\", \"AqaraCubeFromSide\", \"AqaraRotate\"];\n\n    // properties that should not show up in the status\n    let notStatus = [\"Device\", \"Name\", \"BatteryVoltage\", \"BatteryPercentage\", \"LinkQuality\", \"Endpoint\", \"bridge\", \"lastTime\", \"seen\", \"label\", \"status\", \"EurotronicErrors\", \"0201/4008\", \"Xiaomi_64\"];\n\n    //node.warn(msg.payload);\n    devs = flow.get(\"t2zdevices\") || {}; \n\n    let update;\n    update = {payload:Object.values(devs)};\n    \n    let devt = flow.get(\"t2ztable\") || {};\n    let length = Object.keys(devt).length;\n    \n    for ( var i = 0; i < length; i++ ) {\n        let keys = Object.keys(devt);\n        let IDkey = keys[i];\n        let message = devt[IDkey].zigbeeid;\n        //If this is true, no update is send\n        let name = devt[IDkey].name;\n        if (checkname === name ) {\n            status = \"no-update\";\n        }\n        if (msg.payload.ZbReceived[message]) {\n            if (devt[IDkey].vendors !== \"onbekend\") {\n                update = null;\n            }\n        }\n    }\n \n    let receivedSensors = []\n    for (var devN in msg.payload.ZbReceived) {\n        let devInfo = msg.payload.ZbReceived[devN];\n        let ID = devInfo.Device;\n    \n        // get dev by ID\n        let dev = devs[ID] || {};\n\n        for (let prop in devInfo) {\n            dev[prop] = devInfo[prop];\n        }\n    \n        if (devInfo.Name!==undefined) {\n            dev.label = devInfo.Name;\n        } else {\n            dev.label = ID; \n        }\n        dev.bridge = msg.topic.split(\"/\")[1];\n        dev.lastTime = new Date().getTime();\n    \n        // create status from properties\n        let status = \"\";\n        for (let prop in dev) {\n            if (inStatus.includes(prop)) {\n                status += \" \"+prop+\": \"+ dev[prop]; \n            }\n        }\n        if (status === \"\") {\n            for (let prop in dev) {\n                if (! notStatus.includes(prop)) {\n                    status += \" \"+prop+\": \"+ dev[prop]; \n                }\n            }   \n        }\n        dev.status = status;\n    \n        // write back\n        devs[ID] = dev;\n       receivedSensors.push(dev);\n    }\n   \n    Object.entries(devs).forEach(element => element[1].seen = Math.round((new Date().getTime()-element[1].lastTime)/60000)+\"m\");\n    \n    flow.set(\"t2zdevices\", devs);\n\n    //return [{payload:Object.values(devs)}, {payload:receivedSensors}];\n    return [update, {topic: status, payload:Object.values(devs)}];\n}",
         "outputs": 2,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
         "x": 540,
-        "y": 2800,
+        "y": 2820,
         "wires": [
             [
                 "181857d6dea426c9"
@@ -1291,7 +1291,7 @@
         "initialize": "",
         "finalize": "",
         "x": 640,
-        "y": 3420,
+        "y": 3440,
         "wires": [
             [
                 "9c7d7e642c182712"
@@ -1311,7 +1311,7 @@
         "finalize": "",
         "libs": [],
         "x": 880,
-        "y": 3420,
+        "y": 3440,
         "wires": [
             [
                 "4949e67efbb98f5e",
@@ -1332,7 +1332,7 @@
         "finalize": "",
         "libs": [],
         "x": 1230,
-        "y": 3420,
+        "y": 3440,
         "wires": [
             [
                 "bcfca4459487c695"
@@ -1352,7 +1352,7 @@
         "finalize": "",
         "libs": [],
         "x": 870,
-        "y": 3240,
+        "y": 3260,
         "wires": [
             [
                 "08606a538ebd86e8",
@@ -1483,7 +1483,7 @@
             "2b842f86e3188add"
         ],
         "x": 1345,
-        "y": 3420,
+        "y": 3440,
         "wires": []
     },
     {
@@ -1515,7 +1515,7 @@
         "finalize": "",
         "libs": [],
         "x": 340,
-        "y": 2800,
+        "y": 2820,
         "wires": [
             [
                 "63ef986b5d216961"
@@ -1533,7 +1533,7 @@
             "99de50d55ba8b434"
         ],
         "x": 205,
-        "y": 2800,
+        "y": 2820,
         "wires": [
             [
                 "41142c143e2198fa"
@@ -1551,7 +1551,7 @@
             "6e6a7cbdfe39d0b4"
         ],
         "x": 1346,
-        "y": 3240,
+        "y": 3260,
         "wires": []
     },
     {
@@ -1567,7 +1567,7 @@
         "finalize": "",
         "libs": [],
         "x": 1020,
-        "y": 2880,
+        "y": 2900,
         "wires": [
             [
                 "a0a7ddab3ea31950",
@@ -1588,7 +1588,7 @@
         "finalize": "",
         "libs": [],
         "x": 180,
-        "y": 3300,
+        "y": 3320,
         "wires": [
             [
                 "57661677b89a1e7b"
@@ -1605,7 +1605,7 @@
             "e0c4e7e805ce942c"
         ],
         "x": 75,
-        "y": 3300,
+        "y": 3320,
         "wires": [
             [
                 "56af6ad4a7dbb1cb"
@@ -1623,7 +1623,7 @@
             "7f05c13d02221381"
         ],
         "x": 1425,
-        "y": 2880,
+        "y": 2900,
         "wires": []
     },
     {
@@ -1716,7 +1716,8 @@
         "y": 2060,
         "wires": [
             [
-                "d743504d0f6f9807"
+                "d743504d0f6f9807",
+                "d6d350b58ef76d79"
             ]
         ]
     },
@@ -1733,7 +1734,7 @@
         "finalize": "",
         "libs": [],
         "x": 1070,
-        "y": 3300,
+        "y": 3320,
         "wires": [
             [
                 "9d23bc19593e54ce"
@@ -1753,7 +1754,7 @@
         "finalize": "",
         "libs": [],
         "x": 650,
-        "y": 3320,
+        "y": 3340,
         "wires": [
             [
                 "e710f439523d7004",
@@ -1780,7 +1781,7 @@
         "allowrate": false,
         "outputs": 1,
         "x": 630,
-        "y": 3360,
+        "y": 3380,
         "wires": [
             [
                 "da9698b99df92917"
@@ -1798,7 +1799,7 @@
             "2b842f86e3188add"
         ],
         "x": 1345,
-        "y": 3300,
+        "y": 3320,
         "wires": []
     },
     {
@@ -1876,7 +1877,7 @@
         "finalize": "",
         "libs": [],
         "x": 800,
-        "y": 2720,
+        "y": 2740,
         "wires": [
             [
                 "fd5a1b860aac7c4e"
@@ -1896,7 +1897,7 @@
         "finalize": "",
         "libs": [],
         "x": 1240,
-        "y": 2740,
+        "y": 2760,
         "wires": [
             [
                 "2c116f8cfdc079dc",
@@ -1916,7 +1917,7 @@
         "initialize": "",
         "finalize": "",
         "x": 1230,
-        "y": 2820,
+        "y": 2840,
         "wires": [
             [
                 "65bf68ffd9acaa1f"
@@ -1934,7 +1935,7 @@
             "2b842f86e3188add"
         ],
         "x": 1425,
-        "y": 2740,
+        "y": 2760,
         "wires": []
     },
     {
@@ -1948,7 +1949,7 @@
             "ee7c7b73069d4855"
         ],
         "x": 855,
-        "y": 2800,
+        "y": 2820,
         "wires": []
     },
     {
@@ -1970,7 +1971,7 @@
         "allowrate": false,
         "outputs": 1,
         "x": 1240,
-        "y": 2780,
+        "y": 2800,
         "wires": [
             [
                 "a6ae547e6e0edc2c"
@@ -1990,7 +1991,7 @@
         "template": "Command &nbsp&nbsp&nbsp&nbsp: Parameter <br>\n<br>\nZbPermitJoin : 0 = disable pairing mode <br>\nZbPermitJoin : 1 = enable pairing mode for 60 seconds <br>\n<br>\nSetOption83 : 0 = prefixed id wordt het id gebruikt <br>\nSetOption83 : 1 = prefixed id wordt naam gebruikt <br>\n<br>\nMore information: https://tasmota.github.io/docs/Commands/#zigbee <br>",
         "output": "str",
         "x": 1100,
-        "y": 3360,
+        "y": 3380,
         "wires": [
             [
                 "b1838a61f42b98ce"
@@ -2071,8 +2072,8 @@
             "2b842f86e3188add",
             "bca36870516de147"
         ],
-        "x": 2905,
-        "y": 1040,
+        "x": 2965,
+        "y": 1300,
         "wires": []
     },
     {
@@ -2084,8 +2085,8 @@
         "links": [
             "e5338bba2c619bba"
         ],
-        "x": 2975,
-        "y": 1040,
+        "x": 3035,
+        "y": 1300,
         "wires": [
             [
                 "41c0765bbbd40112"
@@ -2106,8 +2107,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3130,
-        "y": 1040,
+        "x": 3190,
+        "y": 1300,
         "wires": []
     },
     {
@@ -2152,8 +2153,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2460,
-        "y": 340,
+        "x": 2520,
+        "y": 600,
         "wires": [
             [
                 "a9a40afb90f39708"
@@ -2175,8 +2176,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2450,
-        "y": 760,
+        "x": 2510,
+        "y": 1020,
         "wires": [
             [
                 "747b48f4aef4973c"
@@ -2207,8 +2208,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2460,
-        "y": 940,
+        "x": 2520,
+        "y": 1200,
         "wires": [
             [
                 "cd524ca6d9fb70e5"
@@ -2233,8 +2234,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2460,
-        "y": 1100,
+        "x": 2520,
+        "y": 1360,
         "wires": [
             [
                 "47872c93833c55aa"
@@ -2617,8 +2618,8 @@
             "918a0ae8b7ce5294",
             "97b137d1b50a1111"
         ],
-        "x": 2655,
-        "y": 680,
+        "x": 2715,
+        "y": 940,
         "wires": []
     },
     {
@@ -2630,8 +2631,8 @@
         "links": [
             "747b48f4aef4973c"
         ],
-        "x": 2975,
-        "y": 680,
+        "x": 3035,
+        "y": 940,
         "wires": [
             [
                 "67ce6624df93cc6b"
@@ -2652,8 +2653,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3120,
-        "y": 680,
+        "x": 3180,
+        "y": 940,
         "wires": []
     },
     {
@@ -2670,8 +2671,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3130,
-        "y": 760,
+        "x": 3190,
+        "y": 1020,
         "wires": []
     },
     {
@@ -2685,8 +2686,8 @@
             "047e48fd30775b86",
             "ab1f478b73c08bc7"
         ],
-        "x": 2655,
-        "y": 760,
+        "x": 2715,
+        "y": 1020,
         "wires": []
     },
     {
@@ -2698,8 +2699,8 @@
         "links": [
             "adc88992cb43371c"
         ],
-        "x": 2975,
-        "y": 760,
+        "x": 3035,
+        "y": 1020,
         "wires": [
             [
                 "2d918b02e531dbea"
@@ -2720,8 +2721,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3110,
-        "y": 1260,
+        "x": 3170,
+        "y": 1520,
         "wires": []
     },
     {
@@ -2738,8 +2739,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3120,
-        "y": 1340,
+        "x": 3180,
+        "y": 1600,
         "wires": []
     },
     {
@@ -2756,8 +2757,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3120,
-        "y": 1380,
+        "x": 3180,
+        "y": 1640,
         "wires": []
     },
     {
@@ -2771,8 +2772,8 @@
             "ed6ff6452049bf86",
             "ab1f478b73c08bc7"
         ],
-        "x": 2655,
-        "y": 1260,
+        "x": 2715,
+        "y": 1520,
         "wires": []
     },
     {
@@ -2784,8 +2785,8 @@
         "links": [
             "5b5017c20dbced26"
         ],
-        "x": 2975,
-        "y": 1260,
+        "x": 3035,
+        "y": 1520,
         "wires": [
             [
                 "2bb442990afd7f4b"
@@ -2803,8 +2804,8 @@
             "368f8584a40aa44b",
             "b44b0868eed7faa8"
         ],
-        "x": 2655,
-        "y": 1340,
+        "x": 2715,
+        "y": 1600,
         "wires": []
     },
     {
@@ -2816,8 +2817,8 @@
         "links": [
             "a6bd480b80119757"
         ],
-        "x": 2975,
-        "y": 1340,
+        "x": 3035,
+        "y": 1600,
         "wires": [
             [
                 "96aea1c7b46fbad0"
@@ -2833,8 +2834,8 @@
         "links": [
             "6cc8ca977d371564"
         ],
-        "x": 2975,
-        "y": 1380,
+        "x": 3035,
+        "y": 1640,
         "wires": [
             [
                 "985b0ca87d617e04"
@@ -2852,8 +2853,8 @@
             "961ee8cedf25de1b",
             "a4ba7dd1095cec68"
         ],
-        "x": 2655,
-        "y": 1380,
+        "x": 2715,
+        "y": 1640,
         "wires": []
     },
     {
@@ -2870,8 +2871,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3160,
-        "y": 1460,
+        "x": 3220,
+        "y": 1720,
         "wires": []
     },
     {
@@ -2883,8 +2884,8 @@
         "links": [
             "f17ee1b1deaf2f61"
         ],
-        "x": 2975,
-        "y": 1460,
+        "x": 3035,
+        "y": 1720,
         "wires": [
             [
                 "bf39bd4af198b709"
@@ -2902,8 +2903,8 @@
             "3445d52d11b356b5",
             "f1beec20c9c89685"
         ],
-        "x": 2655,
-        "y": 1460,
+        "x": 2715,
+        "y": 1720,
         "wires": []
     },
     {
@@ -2917,8 +2918,8 @@
             "9d2bdad4a4da7a13",
             "b598e9736ebb53ed"
         ],
-        "x": 2655,
-        "y": 1300,
+        "x": 2715,
+        "y": 1560,
         "wires": []
     },
     {
@@ -2930,8 +2931,8 @@
         "links": [
             "694f436c49668d06"
         ],
-        "x": 2975,
-        "y": 1300,
+        "x": 3035,
+        "y": 1560,
         "wires": [
             [
                 "c41af3f3e0c7fb79"
@@ -2952,8 +2953,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3150,
-        "y": 1300,
+        "x": 3210,
+        "y": 1560,
         "wires": []
     },
     {
@@ -2970,8 +2971,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3160,
-        "y": 1420,
+        "x": 3220,
+        "y": 1680,
         "wires": []
     },
     {
@@ -2983,8 +2984,8 @@
         "links": [
             "f1facb7cd579e6b4"
         ],
-        "x": 2975,
-        "y": 1420,
+        "x": 3035,
+        "y": 1680,
         "wires": [
             [
                 "b5aa822b5d816cac"
@@ -3002,8 +3003,8 @@
             "f1beec20c9c89685",
             "f599e225b044dafd"
         ],
-        "x": 2655,
-        "y": 1420,
+        "x": 2715,
+        "y": 1680,
         "wires": []
     },
     {
@@ -3020,8 +3021,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3120,
-        "y": 1500,
+        "x": 3180,
+        "y": 1760,
         "wires": []
     },
     {
@@ -3033,8 +3034,8 @@
         "links": [
             "a82f9fadb61abcb2"
         ],
-        "x": 2975,
-        "y": 1500,
+        "x": 3035,
+        "y": 1760,
         "wires": [
             [
                 "b6d4388cc75af6b0"
@@ -3052,8 +3053,8 @@
             "19f7985325e266c1",
             "752d7fe6b164e397"
         ],
-        "x": 2655,
-        "y": 1500,
+        "x": 2715,
+        "y": 1760,
         "wires": []
     },
     {
@@ -3068,8 +3069,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2460,
-        "y": 1380,
+        "x": 2520,
+        "y": 1640,
         "wires": [
             [
                 "5b5017c20dbced26"
@@ -3116,8 +3117,8 @@
             "b0030a937edbf451",
             "ffa478373fcb54a7"
         ],
-        "x": 2615,
-        "y": 180,
+        "x": 915,
+        "y": 520,
         "wires": [
             [
                 "3feda3ce02f13235"
@@ -3133,8 +3134,8 @@
         "links": [
             "99d836ea3d41d0b0"
         ],
-        "x": 2565,
-        "y": 180,
+        "x": 2165,
+        "y": 700,
         "wires": []
     },
     {
@@ -3146,8 +3147,8 @@
         "links": [
             "99d836ea3d41d0b0"
         ],
-        "x": 3725,
-        "y": 120,
+        "x": 2025,
+        "y": 520,
         "wires": []
     },
     {
@@ -3170,8 +3171,8 @@
         "onceDelay": "1",
         "topic": "",
         "payloadType": "str",
-        "x": 2850,
-        "y": 120,
+        "x": 1130,
+        "y": 580,
         "wires": [
             [
                 "0f57331d27535740",
@@ -3191,8 +3192,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3080,
-        "y": 120,
+        "x": 1380,
+        "y": 520,
         "wires": [
             [
                 "b611d99b7e6422cf",
@@ -3210,8 +3211,8 @@
             "b95e6898c6204ca7",
             "c040241aeba92939"
         ],
-        "x": 3235,
-        "y": 160,
+        "x": 1545,
+        "y": 580,
         "wires": []
     },
     {
@@ -3222,8 +3223,8 @@
         "links": [
             "b611d99b7e6422cf"
         ],
-        "x": 1995,
-        "y": 180,
+        "x": 1575,
+        "y": 700,
         "wires": [
             [
                 "aa3ef4125ec03d7e"
@@ -3244,8 +3245,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3110,
-        "y": 1540,
+        "x": 3170,
+        "y": 1800,
         "wires": []
     },
     {
@@ -3259,8 +3260,8 @@
             "289cb822f5a1ad74",
             "2b842f86e3188add"
         ],
-        "x": 2905,
-        "y": 1540,
+        "x": 2965,
+        "y": 1800,
         "wires": []
     },
     {
@@ -3272,8 +3273,8 @@
         "links": [
             "da7de401c93fb6d9"
         ],
-        "x": 2975,
-        "y": 1540,
+        "x": 3035,
+        "y": 1800,
         "wires": [
             [
                 "c6466c3e86fd187c"
@@ -3291,8 +3292,8 @@
             "095c1403794ff39b",
             "b44b0868eed7faa8"
         ],
-        "x": 2655,
-        "y": 800,
+        "x": 2715,
+        "y": 1060,
         "wires": []
     },
     {
@@ -3304,8 +3305,8 @@
         "links": [
             "7272d964025bfec8"
         ],
-        "x": 2975,
-        "y": 800,
+        "x": 3035,
+        "y": 1060,
         "wires": [
             [
                 "5090c3e7b94da71e"
@@ -3326,8 +3327,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3120,
-        "y": 800,
+        "x": 3180,
+        "y": 1060,
         "wires": []
     },
     {
@@ -3340,10 +3341,11 @@
             "dabd198d46369e02"
         ],
         "x": 375,
-        "y": 2840,
+        "y": 2860,
         "wires": [
             [
-                "63ef986b5d216961"
+                "63ef986b5d216961",
+                "f66d1d7fc935b16f"
             ]
         ]
     },
@@ -3357,7 +3359,7 @@
             "dabd198d46369e02"
         ],
         "x": 215,
-        "y": 3340,
+        "y": 3360,
         "wires": [
             [
                 "57661677b89a1e7b"
@@ -3375,8 +3377,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3080,
-        "y": 240,
+        "x": 1380,
+        "y": 640,
         "wires": [
             [
                 "8cdc4c76393256a4"
@@ -3397,8 +3399,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3140,
-        "y": 1640,
+        "x": 3200,
+        "y": 1900,
         "wires": []
     },
     {
@@ -3410,8 +3412,8 @@
         "links": [
             "0b16f7168ac62a5a"
         ],
-        "x": 2975,
-        "y": 1640,
+        "x": 3035,
+        "y": 1900,
         "wires": [
             [
                 "017597617d7bc00b"
@@ -3429,8 +3431,8 @@
             "2b842f86e3188add",
             "717d587a990e3462"
         ],
-        "x": 2905,
-        "y": 1640,
+        "x": 2965,
+        "y": 1900,
         "wires": []
     },
     {
@@ -3444,8 +3446,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2780,
-        "y": 180,
+        "x": 1080,
+        "y": 520,
         "wires": [
             [
                 "0f57331d27535740",
@@ -3487,8 +3489,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3130,
-        "y": 360,
+        "x": 3190,
+        "y": 620,
         "wires": []
     },
     {
@@ -3500,8 +3502,8 @@
         "links": [
             "a8b0c83b08b5b798"
         ],
-        "x": 2975,
-        "y": 360,
+        "x": 3035,
+        "y": 620,
         "wires": [
             [
                 "fe7da7f05341ea7d"
@@ -3519,8 +3521,8 @@
             "a4ba7dd1095cec68",
             "1e7956c3f9abbb41"
         ],
-        "x": 2655,
-        "y": 360,
+        "x": 2715,
+        "y": 620,
         "wires": []
     },
     {
@@ -3537,8 +3539,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3130,
-        "y": 1080,
+        "x": 3190,
+        "y": 1340,
         "wires": []
     },
     {
@@ -3550,8 +3552,8 @@
         "links": [
             "17345b5def7dd23b"
         ],
-        "x": 2975,
-        "y": 1080,
+        "x": 3035,
+        "y": 1340,
         "wires": [
             [
                 "60978b651b1c2bf0"
@@ -3569,8 +3571,8 @@
             "9c3f41d445d0dc2f",
             "b44b0868eed7faa8"
         ],
-        "x": 2655,
-        "y": 1080,
+        "x": 2715,
+        "y": 1340,
         "wires": []
     },
     {
@@ -3595,7 +3597,7 @@
         "topic": "",
         "payloadType": "date",
         "x": 150,
-        "y": 2760,
+        "y": 2780,
         "wires": [
             [
                 "41142c143e2198fa"
@@ -3608,7 +3610,7 @@
         "z": "3c1abf359e6df878",
         "g": "9d0f572b4aa1aba2",
         "name": "extract devicenames",
-        "func": "\nmsg.options = msg.payload.map(obj => {\n   var rObj = {};\n   //rObj[obj.label] = obj.bridge+\"/\"+obj.Device;\n   rObj[obj.label] = obj.bridge+\"/\"+obj.Device+\"/\"+obj.Name+\"/\"\n   return rObj;\n});\n\nmsg.payload = {};\nreturn msg;\n",
+        "func": "if (msg.topic === \"no-update\")  {\n   return;\n} else {\n   msg.options = msg.payload.map(obj => {\n      var rObj = {};\n      rObj[obj.label] = obj.bridge+\"/\"+obj.Device+\"/\"+obj.Name+\"/\"\n      return rObj;\n   });\n}\n\nmsg.payload = {};\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -3618,7 +3620,8 @@
         "y": 2060,
         "wires": [
             [
-                "8b874245fd982544"
+                "8b874245fd982544",
+                "f7df8265de6a63bb"
             ]
         ]
     },
@@ -3636,8 +3639,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3100,
-        "y": 840,
+        "x": 3160,
+        "y": 1100,
         "wires": []
     },
     {
@@ -3649,8 +3652,8 @@
         "links": [
             "22e0a3f2fcfd8827"
         ],
-        "x": 2975,
-        "y": 840,
+        "x": 3035,
+        "y": 1100,
         "wires": [
             [
                 "9984884da0ac4ef7"
@@ -3668,8 +3671,8 @@
             "b6977d35b71e17ba",
             "4a1dc2876fecea47"
         ],
-        "x": 2655,
-        "y": 840,
+        "x": 2715,
+        "y": 1100,
         "wires": []
     },
     {
@@ -3686,8 +3689,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3120,
-        "y": 1120,
+        "x": 3180,
+        "y": 1380,
         "wires": []
     },
     {
@@ -3699,8 +3702,8 @@
         "links": [
             "6f900f263f675bab"
         ],
-        "x": 2975,
-        "y": 1120,
+        "x": 3035,
+        "y": 1380,
         "wires": [
             [
                 "83db7f2646a304d6"
@@ -3718,8 +3721,8 @@
             "85245932760288b4",
             "4a1dc2876fecea47"
         ],
-        "x": 2655,
-        "y": 1120,
+        "x": 2715,
+        "y": 1380,
         "wires": []
     },
     {
@@ -3736,8 +3739,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3140,
-        "y": 1160,
+        "x": 3200,
+        "y": 1420,
         "wires": []
     },
     {
@@ -3749,8 +3752,8 @@
         "links": [
             "16a24ac5537ce50d"
         ],
-        "x": 2975,
-        "y": 1160,
+        "x": 3035,
+        "y": 1420,
         "wires": [
             [
                 "693c955e6cf5cdbb"
@@ -3768,8 +3771,8 @@
             "17e5a8ab902f410e",
             "f1beec20c9c89685"
         ],
-        "x": 2655,
-        "y": 1160,
+        "x": 2715,
+        "y": 1420,
         "wires": []
     },
     {
@@ -3791,10 +3794,11 @@
         "allowrate": false,
         "outputs": 1,
         "x": 750,
-        "y": 2800,
+        "y": 2820,
         "wires": [
             [
-                "197c850df2b84406"
+                "197c850df2b84406",
+                "a93fd18f169c6c15"
             ]
         ]
     },
@@ -4519,7 +4523,7 @@
         "className": "",
         "topicType": "str",
         "x": 810,
-        "y": 3280,
+        "y": 3300,
         "wires": [
             [
                 "12ababc6baf3c5d3"
@@ -4546,7 +4550,7 @@
         "className": "",
         "topicType": "str",
         "x": 810,
-        "y": 3320,
+        "y": 3340,
         "wires": [
             [
                 "12ababc6baf3c5d3"
@@ -4573,7 +4577,7 @@
         "className": "",
         "topicType": "str",
         "x": 1000,
-        "y": 2780,
+        "y": 2800,
         "wires": [
             [
                 "967ae676480e32a7"
@@ -4713,7 +4717,7 @@
         "topic": "submit",
         "topicType": "str",
         "x": 820,
-        "y": 3360,
+        "y": 3380,
         "wires": [
             [
                 "12ababc6baf3c5d3",
@@ -4743,7 +4747,7 @@
         "topic": "Help function om commands naar bridge te sturen.",
         "topicType": "str",
         "x": 970,
-        "y": 3360,
+        "y": 3380,
         "wires": [
             [
                 "9253d79996759524"
@@ -4772,7 +4776,7 @@
         "topic": "rename",
         "topicType": "str",
         "x": 1000,
-        "y": 2840,
+        "y": 2860,
         "wires": [
             [
                 "967ae676480e32a7"
@@ -4893,7 +4897,7 @@
         "topicType": "str",
         "className": "",
         "x": 1070,
-        "y": 3420,
+        "y": 3440,
         "wires": [
             [
                 "1ae8a6e9245eaf9b"
@@ -4998,7 +5002,7 @@
         "topicType": "str",
         "className": "",
         "x": 650,
-        "y": 3280,
+        "y": 3300,
         "wires": [
             [
                 "12ababc6baf3c5d3"
@@ -5032,7 +5036,7 @@
         "topicType": "str",
         "className": "",
         "x": 1020,
-        "y": 2720,
+        "y": 2740,
         "wires": [
             [
                 "967ae676480e32a7"
@@ -5128,8 +5132,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 2170,
-        "y": 180,
+        "x": 1770,
+        "y": 700,
         "wires": [
             [
                 "a45b91d018b1c4dd",
@@ -5163,8 +5167,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 3360,
-        "y": 120,
+        "x": 1660,
+        "y": 520,
         "wires": [
             [
                 "38d81194cb2dc0ab",
@@ -5276,7 +5280,7 @@
         "layout": "row-left",
         "className": "",
         "x": 430,
-        "y": 3380,
+        "y": 3400,
         "wires": []
     },
     {
@@ -5294,7 +5298,7 @@
         "layout": "row-left",
         "className": "",
         "x": 430,
-        "y": 3340,
+        "y": 3360,
         "wires": []
     },
     {
@@ -5312,7 +5316,7 @@
         "layout": "row-left",
         "className": "",
         "x": 770,
-        "y": 2920,
+        "y": 2940,
         "wires": []
     },
     {
@@ -5328,8 +5332,8 @@
         "format": "{{msg.payload}}",
         "layout": "row-left",
         "className": "",
-        "x": 3040,
-        "y": 180,
+        "x": 1340,
+        "y": 580,
         "wires": []
     },
     {
@@ -5345,8 +5349,8 @@
         "format": "{{msg.payload}}",
         "layout": "row-left",
         "className": "",
-        "x": 3270,
-        "y": 240,
+        "x": 1570,
+        "y": 640,
         "wires": []
     },
     {
@@ -5385,7 +5389,7 @@
         "topic": "",
         "name": "Tasmota Device Info",
         "x": 1140,
-        "y": 3240,
+        "y": 3260,
         "wires": [
             []
         ]
@@ -5407,7 +5411,7 @@
         "topic": "",
         "name": "Zigbee Device Info",
         "x": 1290,
-        "y": 2880,
+        "y": 2900,
         "wires": [
             []
         ]
@@ -5429,7 +5433,7 @@
         "topic": "",
         "name": "Zigbee Device Info",
         "x": 1270,
-        "y": 3360,
+        "y": 3380,
         "wires": [
             []
         ]
@@ -5567,7 +5571,7 @@
         "outputs": 1,
         "cts": true,
         "x": 620,
-        "y": 3240,
+        "y": 3260,
         "wires": [
             [
                 "ccd7bcb7f8c89243"
@@ -5679,7 +5683,7 @@
         "outputs": 1,
         "cts": true,
         "x": 780,
-        "y": 2880,
+        "y": 2900,
         "wires": [
             [
                 "c40798c7801b4717"
@@ -5700,8 +5704,8 @@
         "statusCmd": "status",
         "persist": false,
         "storeName": "memory",
-        "x": 2410,
-        "y": 200,
+        "x": 2010,
+        "y": 700,
         "wires": [
             [
                 "b0030a937edbf451"
@@ -5722,8 +5726,8 @@
         "statusCmd": "status",
         "persist": false,
         "storeName": "memory",
-        "x": 3600,
-        "y": 140,
+        "x": 1900,
+        "y": 540,
         "wires": [
             [
                 "ffa478373fcb54a7"
@@ -6289,7 +6293,7 @@
                 "t": "set",
                 "p": "topic",
                 "pt": "msg",
-                "to": "Actuele versie: V_14-03-2023_R1_beta",
+                "to": "Actuele versie: V2_27-03-2023_R1_beta",
                 "tot": "str"
             }
         ],
@@ -7032,7 +7036,7 @@
             "0eadbde0bc90c9c8"
         ],
         "x": 1365,
-        "y": 3080,
+        "y": 3100,
         "wires": []
     },
     {
@@ -7048,7 +7052,7 @@
         "finalize": "",
         "libs": [],
         "x": 210,
-        "y": 3040,
+        "y": 3060,
         "wires": [
             [
                 "3962c8aa5f389acc"
@@ -7068,7 +7072,7 @@
             "52c0b76f27e1d1aa"
         ],
         "x": 75,
-        "y": 3080,
+        "y": 3100,
         "wires": [
             [
                 "f897010fb19eecc9",
@@ -7090,7 +7094,7 @@
         "encoding": "none",
         "allProps": false,
         "x": 380,
-        "y": 3020,
+        "y": 3040,
         "wires": [
             [
                 "8059f74a1505fd2d"
@@ -7111,7 +7115,7 @@
         "encoding": "none",
         "allProps": false,
         "x": 390,
-        "y": 3060,
+        "y": 3080,
         "wires": [
             [
                 "8059f74a1505fd2d"
@@ -7131,7 +7135,7 @@
         "finalize": "",
         "libs": [],
         "x": 210,
-        "y": 3120,
+        "y": 3140,
         "wires": [
             [
                 "9a04b22efb979b25"
@@ -7155,7 +7159,7 @@
         "encoding": "none",
         "allProps": false,
         "x": 380,
-        "y": 3100,
+        "y": 3120,
         "wires": [
             [
                 "2ddd3e5049ca712a"
@@ -7176,7 +7180,7 @@
         "encoding": "none",
         "allProps": false,
         "x": 390,
-        "y": 3140,
+        "y": 3160,
         "wires": [
             [
                 "2ddd3e5049ca712a"
@@ -7196,7 +7200,7 @@
         "finalize": "",
         "libs": [],
         "x": 610,
-        "y": 3120,
+        "y": 3140,
         "wires": [
             [
                 "d0bde3c507cbec9f"
@@ -7216,7 +7220,7 @@
         "finalize": "",
         "libs": [],
         "x": 610,
-        "y": 3040,
+        "y": 3060,
         "wires": [
             [
                 "11baf83766458e57"
@@ -7244,7 +7248,7 @@
         "to": "",
         "reg": false,
         "x": 820,
-        "y": 3120,
+        "y": 3140,
         "wires": [
             [
                 "65b7fc994ed8a9d5"
@@ -7273,7 +7277,7 @@
         "reduceInitType": "",
         "reduceFixup": "",
         "x": 1230,
-        "y": 3080,
+        "y": 3100,
         "wires": [
             [
                 "2d5dcb4304a0901a"
@@ -7301,7 +7305,7 @@
         "to": "",
         "reg": false,
         "x": 820,
-        "y": 3040,
+        "y": 3060,
         "wires": [
             [
                 "65b7fc994ed8a9d5"
@@ -7336,7 +7340,7 @@
         "to": "",
         "reg": false,
         "x": 1030,
-        "y": 3080,
+        "y": 3100,
         "wires": [
             [
                 "1aa46d9667bcf55b"
@@ -7426,8 +7430,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3110,
-        "y": 540,
+        "x": 3170,
+        "y": 800,
         "wires": []
     },
     {
@@ -7444,8 +7448,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3130,
-        "y": 460,
+        "x": 3190,
+        "y": 720,
         "wires": []
     },
     {
@@ -7457,8 +7461,8 @@
         "links": [
             "c32e30cbaf14dacf"
         ],
-        "x": 2975,
-        "y": 540,
+        "x": 3035,
+        "y": 800,
         "wires": [
             [
                 "c1a9327434e772d9"
@@ -7476,8 +7480,8 @@
             "2b842f86e3188add",
             "23593717f7fe9bcb"
         ],
-        "x": 2905,
-        "y": 540,
+        "x": 2965,
+        "y": 800,
         "wires": []
     },
     {
@@ -7489,8 +7493,8 @@
         "links": [
             "7c015677814352ca"
         ],
-        "x": 2975,
-        "y": 460,
+        "x": 3035,
+        "y": 720,
         "wires": [
             [
                 "77821154c471b317"
@@ -7509,8 +7513,8 @@
             "56101de5381ca56f",
             "97b137d1b50a1111"
         ],
-        "x": 2655,
-        "y": 460,
+        "x": 2715,
+        "y": 720,
         "wires": []
     },
     {
@@ -7524,8 +7528,8 @@
             "0e90369a7bd0020b",
             "4a1dc2876fecea47"
         ],
-        "x": 2655,
-        "y": 500,
+        "x": 2715,
+        "y": 760,
         "wires": []
     },
     {
@@ -7537,8 +7541,8 @@
         "links": [
             "8ab850f412826e0f"
         ],
-        "x": 2975,
-        "y": 500,
+        "x": 3035,
+        "y": 760,
         "wires": [
             [
                 "ac05d7de1daf1c67"
@@ -7559,8 +7563,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3100,
-        "y": 500,
+        "x": 3160,
+        "y": 760,
         "wires": []
     },
     {
@@ -7581,8 +7585,8 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 2770,
-        "y": 580,
+        "x": 2830,
+        "y": 840,
         "wires": [
             [
                 "c32e30cbaf14dacf"
@@ -7601,8 +7605,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2450,
-        "y": 540,
+        "x": 2510,
+        "y": 800,
         "wires": [
             [
                 "7c015677814352ca"
@@ -7636,8 +7640,8 @@
         "links": [
             "fb7bbf24b18c4851"
         ],
-        "x": 2975,
-        "y": 580,
+        "x": 3035,
+        "y": 840,
         "wires": [
             [
                 "5a804b927b966214"
@@ -7655,8 +7659,8 @@
             "34afe7cbdf432008",
             "b44b0868eed7faa8"
         ],
-        "x": 2655,
-        "y": 580,
+        "x": 2715,
+        "y": 840,
         "wires": []
     },
     {
@@ -7673,8 +7677,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3090,
-        "y": 580,
+        "x": 3150,
+        "y": 840,
         "wires": []
     },
     {
@@ -8000,7 +8004,7 @@
         "type": "function",
         "z": "3c1abf359e6df878",
         "name": "UPDATE RELEASE",
-        "func": "var version = \"V_14-03-2023_R1_beta\"\nvar oldStr = msg.payload;\nvar newStr = oldStr.slice(0, oldStr.length-1);\nvar store = newStr;\nflow.set(\"version\", newStr);\nvar html = \"\";\nmsg.topic = \"Release notes\";\nif (msg.statusCode === 200 || 201) {\n    if (store === version) {\n        msg.text = \"FLOW IS UP TO DATE MET GITHUB (\" + version + \")\"\n        msg.background = \"#0A8085\";\n        return msg;\n    } else {\n        msg.text = \"ER IS EEN UPDATE, DOWNLOAD FLOW FILE VAN GITHUB\"\n        msg.background = \"#8C101C\";\n        return msg;\n    }\n}\nreturn;",
+        "func": "var version = \"V2_27-03-2023_R1_beta\"\nvar oldStr = msg.payload;\nvar newStr = oldStr.slice(0, oldStr.length-1);\nvar store = newStr;\nflow.set(\"version\", newStr);\nvar html = \"\";\nmsg.topic = \"Release notes\";\nif (msg.statusCode === 200 || 201) {\n    if (store === version) {\n        msg.text = \"FLOW IS UP TO DATE MET GITHUB (\" + version + \")\"\n        msg.background = \"#0A8085\";\n        return msg;\n    } else {\n        msg.text = \"ER IS EEN UPDATE, DOWNLOAD FLOW FILE VAN GITHUB\"\n        msg.background = \"#8C101C\";\n        return msg;\n    }\n}\nreturn;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -9530,8 +9534,8 @@
             "37f607c2fe57abf8",
             "4a1dc2876fecea47"
         ],
-        "x": 2655,
-        "y": 1680,
+        "x": 2715,
+        "y": 1940,
         "wires": []
     },
     {
@@ -9543,8 +9547,8 @@
         "links": [
             "8594d9e519e7907b"
         ],
-        "x": 2975,
-        "y": 1680,
+        "x": 3035,
+        "y": 1940,
         "wires": [
             [
                 "0d9c31748025070d"
@@ -9565,8 +9569,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3130,
-        "y": 1680,
+        "x": 3190,
+        "y": 1940,
         "wires": []
     },
     {
@@ -9581,8 +9585,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2450,
-        "y": 1660,
+        "x": 2510,
+        "y": 1920,
         "wires": [
             [
                 "8e309c4915312ec0"
@@ -9604,8 +9608,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2460,
-        "y": 1780,
+        "x": 2520,
+        "y": 2040,
         "wires": [
             [
                 "0949a569c2ba16fe"
@@ -9623,8 +9627,8 @@
             "83b3ad54f095fa2f",
             "97b137d1b50a1111"
         ],
-        "x": 2655,
-        "y": 1780,
+        "x": 2715,
+        "y": 2040,
         "wires": []
     },
     {
@@ -9636,8 +9640,8 @@
         "links": [
             "0949a569c2ba16fe"
         ],
-        "x": 2975,
-        "y": 1780,
+        "x": 3035,
+        "y": 2040,
         "wires": [
             [
                 "8a1174008e15e359"
@@ -9658,8 +9662,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3150,
-        "y": 1780,
+        "x": 3210,
+        "y": 2040,
         "wires": []
     },
     {
@@ -9694,7 +9698,7 @@
         "type": "comment",
         "z": "3c1abf359e6df878",
         "name": "To-Do-List",
-        "info": "- Bij inkomend bericht wordt tabel met apparaten herschreven.\nDaardoor is het lastig iets in te stellen, want de apparaat naam verdwijnt direct.\n\n- Battery en rssi in dezelfde idx",
+        "info": "",
         "x": 560,
         "y": 320,
         "wires": []
@@ -9711,8 +9715,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1280,
-        "y": 460,
+        "x": 2740,
+        "y": 360,
         "wires": [
             [
                 "a055120ed19f9044",
@@ -9730,8 +9734,8 @@
         "links": [
             "2b842f86e3188add"
         ],
-        "x": 1655,
-        "y": 580,
+        "x": 3115,
+        "y": 480,
         "wires": []
     },
     {
@@ -9744,8 +9748,8 @@
             "5b5017c20dbced26",
             "adc88992cb43371c"
         ],
-        "x": 1005,
-        "y": 460,
+        "x": 2455,
+        "y": 360,
         "wires": [
             [
                 "ad09533520502602"
@@ -9766,8 +9770,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1740,
-        "y": 460,
+        "x": 3200,
+        "y": 360,
         "wires": []
     },
     {
@@ -9776,14 +9780,14 @@
         "z": "3c1abf359e6df878",
         "g": "50fbc45746000899",
         "name": "Motion sensor, ZbReceived[zigbeeid].Occupancy 0/1",
-        "func": "msg.topic = \"domoticz/in\";\nlet stored;\nlet state;\nlet battery;\nlet rssi;\nlet value = {};\n\nif (msg.src === 'tasmotainfo') {\n    let zigbeeid = msg.payload.ZbInfo.zigbeeid;\n    stored = context.get(zigbeeid) || {};\n    \n    if (msg.payload.ZbInfo[zigbeeid]) {\n        if (msg.payload.ZbInfo[zigbeeid].hasOwnProperty(\"BatteryPercentage\")) {\n        battery = msg.payload.ZbInfo[zigbeeid].BatteryPercentage;\n        } else if (msg.payload.ZbInfo[zigbeeid].hasOwnProperty(\"BatteryVoltage\")) {\n            battery = msg.payload.ZbInfo[zigbeeid].BatteryVoltage;\n            battery = (battery / 3) * 100;\n            if (battery > 100) {\n                battery = 100;\n            }\n            battery = parseInt(battery);\n        } else {\n            if (stored.batt === undefined) {\n                battery = 255;\n            } else {\n                battery = stored.batt;\n            }\n        }\n\n        if (msg.payload.ZbInfo[zigbeeid].hasOwnProperty(\"LinkQuality\")) {\n            rssi = msg.payload.ZbInfo[zigbeeid].LinkQuality;\n            rssi = (rssi / 254) * 11;\n            if (rssi > 11) {\n                rssi = 11;\n            }\n            rssi = parseInt(rssi);\n        } else {\n            if (stored.rssi === undefined) {\n                rssi = 255;\n            } else {\n                rssi = stored.rssi;\n            }\n        }\n\n        if (stored.state !== undefined) {\n            value.state = stored.state;\n        } else {\n            value.state = undefined;\n        }\n        value.batt = battery;\n        value.rssi = rssi;\n        context.set(zigbeeid, value);\n        return;\n    }\n}\n\nif (msg.src === 'tasmota') {\n    let idx = msg.payload.ZbReceived.idx;\n    let zigbeeid = msg.payload.ZbReceived.zigbeeid;\n    let idxoptie1 = msg.payload.ZbReceived.idxoptie1;\n    let msgoptie1;\n    let illuminance;\n         \n    if ( msg.payload.ZbReceived[zigbeeid] ) {    \n        stored = context.get(zigbeeid) || {};\n        if (stored.state === undefined) {\n            stored.state = 3;\n        }\n   \n        if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"BatteryPercentage\")) {\n            battery = msg.payload.ZbReceived[zigbeeid].BatteryPercentage;\n        } else if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"BatteryVoltage\")) {\n            battery = msg.payload.ZbReceived[zigbeeid].BatteryVoltage;\n            battery = (battery / 3) * 100;\n            if (battery > 100) {\n                battery = 100;\n            }\n            battery = parseInt(battery);\n        } else {\n            if (stored.batt === undefined) {\n                battery = 255;\n            } else {\n                battery = stored.batt;\n            }\n        }\n\n        if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"LinkQuality\")) {\n            rssi = msg.payload.ZbReceived[zigbeeid].LinkQuality;\n            rssi = (rssi / 254) * 11;\n            if (rssi > 11) {\n                rssi = 11;\n            }\n            rssi = parseInt(rssi);\n        } else {\n            if (stored.rssi === undefined) {\n                rssi = 255;\n            } else {\n                rssi = stored.rssi;\n            }\n        }\n\n        if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"Illuminance\")) {\n            illuminance = msg.payload.ZbReceived[zigbeeid].Illuminance;\n        }\n    \n        if ( idx !== 0 ) {\n            if (msg.payload.ZbReceived[zigbeeid].Occupancy === 1) {\n                if (stored.state === 0 || stored.state === 3) {\n                    state = 1;      \n                    msg.payload = {\"idx\" : idx,\"nvalue\" : 1, \"svalue1\" : \"On\", \"Battery\" : battery, \"RSSI\" : rssi, };                \n                } else if (stored.state === 1) {  \n                    msg.payload = { \"command\": \"udevice\", \"idx\": idx, \"nvalue\": 1, \"svalue1\": \"On\", \"Battery\": battery, \"RSSI\": rssi, \"parse\": false };\n                }\n            }\n            else if (msg.payload.ZbReceived[zigbeeid].Occupancy === 0) {\n                if (stored.state === 1 || stored.state === 3) {\n                    state = 0;   \n                    msg.payload = { \"idx\": idx, \"nvalue\": 0, \"svalue1\": \"Off\", \"Battery\": battery, \"RSSI\": rssi, };\n                } else if (stored.state === 0) {  \n                    msg.payload = { \"command\": \"udevice\", \"idx\": idx, \"nvalue\": 0, \"svalue1\": \"Off\", \"Battery\": battery, \"RSSI\": rssi, \"parse\": false};\n                }\n            } else {\n        \t    msg = null; \n        \t}\n        } else {\n            msg = null;\n        }\n\n        if ((idxoptie1 === 0) || (idxoptie1 === \"n.v.t\") || (idxoptie1 === \"Niet ingesteld\")) {\n            msgoptie1 = null;\n        } else {\n            if (illuminance !== undefined) {\n                msgoptie1 = { \"topic\": \"domoticz/in\", \"payload\": { \"command\": \"udevice\", \"idx\": idxoptie1, \"svalue\": \"\" + illuminance + \"\" } };\n            } else {\n                msgoptie1 = null;\n            }\n        }\n\n        value.state = state;\n        value.batt = battery;\n        value.rssi = rssi;\n        context.set(zigbeeid, value);\n\n        return [[msg, msgoptie1]];\n    }\n}",
+        "func": "msg.topic = \"domoticz/in\";\nlet stored;\nlet state;\nlet battery;\nlet rssi;\nlet value = {};\n\nif (msg.src === 'tasmotainfo') {\n    let zigbeeid = msg.payload.ZbInfo.zigbeeid;\n    stored = context.get(zigbeeid) || {};\n    \n    if (msg.payload.ZbInfo[zigbeeid]) {\n        if (msg.payload.ZbInfo[zigbeeid].hasOwnProperty(\"BatteryPercentage\")) {\n        battery = msg.payload.ZbInfo[zigbeeid].BatteryPercentage;\n        } else if (msg.payload.ZbInfo[zigbeeid].hasOwnProperty(\"BatteryVoltage\")) {\n            battery = msg.payload.ZbInfo[zigbeeid].BatteryVoltage;\n            battery = (battery / 3) * 100;\n            if (battery > 100) {\n                battery = 100;\n            }\n            battery = parseInt(battery);\n        } else {\n            if (stored.batt === undefined) {\n                battery = 255;\n            } else {\n                battery = stored.batt;\n            }\n        }\n\n        if (msg.payload.ZbInfo[zigbeeid].hasOwnProperty(\"LinkQuality\")) {\n            rssi = msg.payload.ZbInfo[zigbeeid].LinkQuality;\n            rssi = (rssi / 254) * 11;\n            if (rssi > 11) {\n                rssi = 11;\n            }\n            rssi = parseInt(rssi);\n        } else {\n            if (stored.rssi === undefined) {\n                rssi = 255;\n            } else {\n                rssi = stored.rssi;\n            }\n        }\n\n        if (stored.state !== undefined) {\n            value.state = stored.state;\n        } else {\n            value.state = undefined;\n        }\n        value.batt = battery;\n        value.rssi = rssi;\n        context.set(zigbeeid, value);\n        return;\n    }\n}\n\nif (msg.src === 'tasmota') {\n    let idx = msg.payload.ZbReceived.idx;\n    let zigbeeid = msg.payload.ZbReceived.zigbeeid;\n    let idxoptie1 = msg.payload.ZbReceived.idxoptie1;\n    let msgoptie1;\n    let illuminance;\n         \n    if ( msg.payload.ZbReceived[zigbeeid] ) {    \n        stored = context.get(zigbeeid) || {};\n        if (stored.state === undefined) {\n            stored.state = 3;\n        }\n   \n        if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"BatteryPercentage\")) {\n            battery = msg.payload.ZbReceived[zigbeeid].BatteryPercentage;\n        } else if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"BatteryVoltage\")) {\n            battery = msg.payload.ZbReceived[zigbeeid].BatteryVoltage;\n            battery = (battery / 3) * 100;\n            if (battery > 100) {\n                battery = 100;\n            }\n            battery = parseInt(battery);\n        } else {\n            if (stored.batt === undefined) {\n                battery = 255;\n            } else {\n                battery = stored.batt;\n            }\n        }\n\n        if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"LinkQuality\")) {\n            rssi = msg.payload.ZbReceived[zigbeeid].LinkQuality;\n            rssi = (rssi / 254) * 11;\n            if (rssi > 11) {\n                rssi = 11;\n            }\n            rssi = parseInt(rssi);\n        } else {\n            if (stored.rssi === undefined) {\n                rssi = 255;\n            } else {\n                rssi = stored.rssi;\n            }\n        }\n\n        if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"Illuminance\")) {\n            illuminance = msg.payload.ZbReceived[zigbeeid].Illuminance;\n        } else {\n            illuminance = undefined;\n        }\n    \n        if ( idx !== 0 ) {\n            if (msg.payload.ZbReceived[zigbeeid].Occupancy === 1) {\n                if (stored.state === 0 || stored.state === 3) {\n                    state = 1;      \n                    msg.payload = {\"idx\" : idx,\"nvalue\" : 1, \"svalue1\" : \"On\", \"Battery\" : battery, \"RSSI\" : rssi, };                \n                } else if (stored.state === 1) {  \n                    msg.payload = { \"command\": \"udevice\", \"idx\": idx, \"nvalue\": 1, \"svalue1\": \"On\", \"Battery\": battery, \"RSSI\": rssi, \"parse\": false };\n                }\n            }\n            else if (msg.payload.ZbReceived[zigbeeid].Occupancy === 0) {\n                if (stored.state === 1 || stored.state === 3) {\n                    state = 0;   \n                    msg.payload = { \"idx\": idx, \"nvalue\": 0, \"svalue1\": \"Off\", \"Battery\": battery, \"RSSI\": rssi, };\n                } else if (stored.state === 0) {  \n                    msg.payload = { \"command\": \"udevice\", \"idx\": idx, \"nvalue\": 0, \"svalue1\": \"Off\", \"Battery\": battery, \"RSSI\": rssi, \"parse\": false};\n                }\n            } else {\n        \t    msg = null; \n        \t}\n        } else {\n            msg = null;\n        }\n\n        if ((idxoptie1 === 0) || (idxoptie1 === \"n.v.t\") || (idxoptie1 === \"Niet ingesteld\")) {\n            msgoptie1 = null;\n        } else {\n            if (illuminance !== undefined) {\n                msgoptie1 = { \"topic\": \"domoticz/in\", \"payload\": { \"command\": \"udevice\", \"idx\": idxoptie1, \"svalue\": \"\" + illuminance + \"\" } };\n            } else {\n                msgoptie1 = null;\n            }\n        }\n\n        value.state = state;\n        value.batt = battery;\n        value.rssi = rssi;\n        context.set(zigbeeid, value);\n\n        return [[msg, msgoptie1]];\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1300,
-        "y": 500,
+        "x": 2760,
+        "y": 400,
         "wires": [
             [
                 "0358bf193f1f1dd8",
@@ -9805,8 +9809,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1750,
-        "y": 500,
+        "x": 3210,
+        "y": 400,
         "wires": []
     },
     {
@@ -9821,8 +9825,8 @@
             "7272d964025bfec8",
             "17345b5def7dd23b"
         ],
-        "x": 1005,
-        "y": 500,
+        "x": 2455,
+        "y": 400,
         "wires": [
             [
                 "36a07c9d36434013"
@@ -9841,8 +9845,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1280,
-        "y": 420,
+        "x": 2740,
+        "y": 320,
         "wires": [
             [
                 "1024b7339f81dbdd",
@@ -9860,8 +9864,8 @@
             "a8b0c83b08b5b798",
             "6cc8ca977d371564"
         ],
-        "x": 1005,
-        "y": 420,
+        "x": 2455,
+        "y": 320,
         "wires": [
             [
                 "95f61cdfbd2a6673"
@@ -9882,8 +9886,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1760,
-        "y": 420,
+        "x": 3220,
+        "y": 320,
         "wires": []
     },
     {
@@ -9898,8 +9902,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1290,
-        "y": 380,
+        "x": 2750,
+        "y": 280,
         "wires": [
             [
                 "d635886cf9f08538",
@@ -9916,8 +9920,8 @@
         "links": [
             "a9a40afb90f39708"
         ],
-        "x": 1005,
-        "y": 380,
+        "x": 2455,
+        "y": 280,
         "wires": [
             [
                 "6d6872d63d570b48"
@@ -9938,8 +9942,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1770,
-        "y": 380,
+        "x": 3230,
+        "y": 280,
         "wires": []
     },
     {
@@ -9948,14 +9952,14 @@
         "z": "3c1abf359e6df878",
         "g": "50fbc45746000899",
         "name": "Powerplug, ZbReceived[zigbeeid].Power 0/1",
-        "func": "msg.topic = \"domoticz/in\";\nlet stored;\nlet state;\nlet rssi;\nlet value = {};\n\nif (msg.src === 'tasmotainfo') {\n    let zigbeeid = msg.payload.ZbInfo.zigbeeid;\n    stored = context.get(zigbeeid) || {};\n    \n    if (msg.payload.ZbInfo[zigbeeid]) {\n        if (msg.payload.ZbInfo[zigbeeid].hasOwnProperty(\"LinkQuality\")) {\n            rssi = msg.payload.ZbInfo[zigbeeid].LinkQuality;\n            rssi = (rssi / 254) * 11;\n            if (rssi > 11) {\n                rssi = 11;\n            }\n            rssi = parseInt(rssi);\n        } else {\n            if (stored.rssi === undefined) {\n                rssi = 255;\n            } else {\n                rssi = stored.rssi;\n            }\n        }\n\n        if (stored.state !== undefined) {\n            value.state = stored.state;\n        } else {\n            value.state = undefined;\n        }\n        value.rssi = rssi;\n        context.set(zigbeeid, value);\n        return;\n    }\n}\n\nif (msg.src === 'tasmota') {\n    let idx = msg.payload.ZbReceived.idx;\n    let idxoptie1 = msg.payload.ZbReceived.idxoptie1;\n    let idxoptie2 = msg.payload.ZbReceived.idxoptie2;\n    let idxoptie3 = msg.payload.ZbReceived.idxoptie3;\n    let idxoptie4 = msg.payload.ZbReceived.idxoptie4;\n    let zigbeeid = msg.payload.ZbReceived.zigbeeid;\n\n    if ( msg.payload.ZbReceived[zigbeeid] ) {    \n        stored = context.get(zigbeeid) || {};\n        if (stored.state === undefined) {\n            stored.state = 3;\n        }\n   \n        if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"LinkQuality\")) {\n            rssi = msg.payload.ZbReceived[zigbeeid].LinkQuality;\n            rssi = (rssi / 254) * 11;\n            if (rssi > 11) {\n                rssi = 11;\n            }\n            rssi = parseInt(rssi);\n        } else {\n            if (stored.rssi === undefined) {\n                rssi = 255;\n            } else {\n                rssi = stored.rssi;\n            }\n        }\n    \n        if ( idx !== 0 ) {\n            if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"Power\")) {\n                if (msg.payload.ZbReceived[zigbeeid].Power === 1) {\n                    if (stored.state === 0 || stored.state === 3) {\n                        state = 1;      \n                        msg.payload = {\"idx\" : idx,\"nvalue\" : 1, \"svalue1\" : \"On\", \"RSSI\" : rssi, };                \n                    } else if (stored.state === 1) {  \n                        msg.payload = { \"command\": \"udevice\", \"idx\": idx, \"nvalue\": 1, \"svalue1\": \"On\", \"RSSI\": rssi, \"parse\": false };\n                    }\n                } else if (msg.payload.ZbReceived[zigbeeid].Power === 0) {\n                    if (stored.state === 1 || stored.state === 3) {\n                        state = 0;   \n                        msg.payload = { \"idx\": idx, \"nvalue\": 0, \"svalue1\": \"Off\", \"RSSI\": rssi, };\n                    } else if (stored.state === 0) {  \n                        msg.payload = { \"command\": \"udevice\", \"idx\": idx, \"nvalue\": 0, \"svalue1\": \"Off\", \"RSSI\": rssi, \"parse\": false};\n                    }\n                } else {\n        \t        msg = null; \n        \t    }\n            } else {\n                msg = null;\n            }\n        } else {\n            msg = null;\n        }\n\n        let voltage;\n        let power;\n        let current;\n        let energy;\n        if ((idxoptie1 !== 0) || (idxoptie1 !== \"n.v.t\") || (idxoptie1 !== \"Niet ingesteld\")) {\n            if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"RMSVoltage\")) {\n                voltage = msg.payload.ZbReceived[zigbeeid].RMSVoltage;\n                voltage = { \"topic\": \"domoticz/in\", \"payload\": { \"command\": \"udevice\", \"idx\": idxoptie1, \"svalue\": \"\" + voltage + \"\" } };\n            } else {\n                voltage = null;\n            }\n        } \n    \n        if ((idxoptie2 !== 0) || (idxoptie2 !== \"n.v.t\") || (idxoptie2 !== \"Niet ingesteld\")) {\n            if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"ActivePower\")) {\n                power = msg.payload.ZbReceived[zigbeeid].ActivePower;\n                power = { \"topic\": \"domoticz/in\", \"payload\": { \"command\": \"udevice\", \"idx\": idxoptie2, \"svalue\": \"\" + power + \"\" } };\n            } else {\n                power = null;\n            }\n        }\n\n        if ((idxoptie3 !== 0) || (idxoptie3 !== \"n.v.t\") || (idxoptie3 !== \"Niet ingesteld\")) {\n            if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"RMSCurrent\")) {\n                current = msg.payload.ZbReceived[zigbeeid].RMSCurrent;\n                current = { \"topic\": \"domoticz/in\", \"payload\": { \"command\": \"udevice\", \"idx\": idxoptie2, \"svalue\": \"\" + current + \"\" } };\n            } else {\n                current = null;\n            }\n        }\n\n        if ((idxoptie4 !== 0) || (idxoptie4 !== \"n.v.t\") || (idxoptie4 !== \"Niet ingesteld\")) {\n            if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"EnergyTotal\")) {\n                energy = msg.payload.ZbReceived[zigbeeid].EnergyTotal;\n                energy = { \"topic\": \"domoticz/in\", \"payload\": { \"command\": \"udevice\", \"idx\": idxoptie2, \"svalue\": \"\" + energy + \"\" } };\n            } else {\n                energy = null;\n            }\n        }\n\n        value.state = state;\n        value.rssi = rssi;\n        context.set(zigbeeid, value);\n\n        return [[msg, voltage, power, current, energy]];\n    }\n}\n\nif (msg.src === 'domoticz') {\n    let zigbeeid = msg.payload.zigbeeid\n    let topicname = msg.payload.topicname;\n    let msgpower;\n\n    if (msg.payload.nvalue === 1) {\n        msgpower = { \"topic\": \"cmnd/\" + topicname + \"/ZbSend\", \"payload\": { \"Device\": zigbeeid, \"Send\": { \"Power\": 1 } } };\n        return msgpower;\n    } else if (msg.payload.nvalue === 0) {\n        msgpower = { \"topic\": \"cmnd/\" + topicname + \"/ZbSend\", \"payload\": { \"Device\": zigbeeid, \"Send\": { \"Power\": 0 } } };\n        return msgpower;\n    } else {\n        return;\n    }\n}",
+        "func": "msg.topic = \"domoticz/in\";\nlet stored;\nlet state;\nlet rssi;\nlet value = {};\n\nif (msg.src === 'tasmotainfo') {\n    let zigbeeid = msg.payload.ZbInfo.zigbeeid;\n    stored = context.get(zigbeeid) || {};\n    \n    if (msg.payload.ZbInfo[zigbeeid]) {\n        if (msg.payload.ZbInfo[zigbeeid].hasOwnProperty(\"LinkQuality\")) {\n            rssi = msg.payload.ZbInfo[zigbeeid].LinkQuality;\n            rssi = (rssi / 254) * 11;\n            if (rssi > 11) {\n                rssi = 11;\n            }\n            rssi = parseInt(rssi);\n        } else {\n            if (stored.rssi === undefined) {\n                rssi = 255;\n            } else {\n                rssi = stored.rssi;\n            }\n        }\n\n        if (stored.state !== undefined) {\n            value.state = stored.state;\n        } else {\n            value.state = undefined;\n        }\n        value.rssi = rssi;\n        context.set(zigbeeid, value);\n        return;\n    }\n}\n\nif (msg.src === 'tasmota') {\n    let idx = msg.payload.ZbReceived.idx;\n    let idxoptie1 = msg.payload.ZbReceived.idxoptie1;\n    let idxoptie2 = msg.payload.ZbReceived.idxoptie2;\n    let idxoptie3 = msg.payload.ZbReceived.idxoptie3;\n    let idxoptie4 = msg.payload.ZbReceived.idxoptie4;\n    let zigbeeid = msg.payload.ZbReceived.zigbeeid;\n\n    if ( msg.payload.ZbReceived[zigbeeid] ) {    \n        stored = context.get(zigbeeid) || {};\n        if (stored.state === undefined) {\n            stored.state = 3;\n        }\n   \n        if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"LinkQuality\")) {\n            rssi = msg.payload.ZbReceived[zigbeeid].LinkQuality;\n            rssi = (rssi / 254) * 11;\n            if (rssi > 11) {\n                rssi = 11;\n            }\n            rssi = parseInt(rssi);\n        } else {\n            if (stored.rssi === undefined) {\n                rssi = 255;\n            } else {\n                rssi = stored.rssi;\n            }\n        }\n    \n        if ( idx !== 0 ) {\n            if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"Power\")) {\n                if (msg.payload.ZbReceived[zigbeeid].Power === 1) {\n                    if (stored.state === 0 || stored.state === 3) {\n                        state = 1;      \n                        msg.payload = {\"idx\" : idx,\"nvalue\" : 1, \"svalue1\" : \"On\", \"RSSI\" : rssi, };                \n                    } else if (stored.state === 1) {  \n                        msg.payload = { \"command\": \"udevice\", \"idx\": idx, \"nvalue\": 1, \"svalue1\": \"On\", \"RSSI\": rssi, \"parse\": false };\n                    }\n                } else if (msg.payload.ZbReceived[zigbeeid].Power === 0) {\n                    if (stored.state === 1 || stored.state === 3) {\n                        state = 0;   \n                        msg.payload = { \"idx\": idx, \"nvalue\": 0, \"svalue1\": \"Off\", \"RSSI\": rssi, };\n                    } else if (stored.state === 0) {  \n                        msg.payload = { \"command\": \"udevice\", \"idx\": idx, \"nvalue\": 0, \"svalue1\": \"Off\", \"RSSI\": rssi, \"parse\": false};\n                    }\n                } else {\n        \t        msg = null; \n        \t    }\n            } else {\n                msg = null;\n            }\n        } else {\n            msg = null;\n        }\n\n        let voltage;\n        let power;\n        let current;\n        let energy;\n        if ((idxoptie1 !== 0) || (idxoptie1 !== \"n.v.t\") || (idxoptie1 !== \"Niet ingesteld\")) {\n            if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"RMSVoltage\")) {\n                voltage = msg.payload.ZbReceived[zigbeeid].RMSVoltage;\n                voltage = { \"topic\": \"domoticz/in\", \"payload\": { \"command\": \"udevice\", \"idx\": idxoptie1, \"svalue\": \"\" + voltage + \"\" } };\n            } else {\n                voltage = null;\n            }\n        } else {\n            voltage = null;\n        }\n    \n        if ((idxoptie2 !== 0) || (idxoptie2 !== \"n.v.t\") || (idxoptie2 !== \"Niet ingesteld\")) {\n            if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"ActivePower\")) {\n                power = msg.payload.ZbReceived[zigbeeid].ActivePower;\n                power = { \"topic\": \"domoticz/in\", \"payload\": { \"command\": \"udevice\", \"idx\": idxoptie2, \"svalue\": \"\" + power + \"\" } };\n            } else {\n                power = null;\n            }\n        } else {\n            power = null;\n        }\n\n        if ((idxoptie3 !== 0) || (idxoptie3 !== \"n.v.t\") || (idxoptie3 !== \"Niet ingesteld\")) {\n            if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"RMSCurrent\")) {\n                current = msg.payload.ZbReceived[zigbeeid].RMSCurrent;\n                current = { \"topic\": \"domoticz/in\", \"payload\": { \"command\": \"udevice\", \"idx\": idxoptie2, \"svalue\": \"\" + current + \"\" } };\n            } else {\n                current = null;\n            }\n        } else {\n            current = null;\n        }\n\n        if ((idxoptie4 !== 0) || (idxoptie4 !== \"n.v.t\") || (idxoptie4 !== \"Niet ingesteld\")) {\n            if (msg.payload.ZbReceived[zigbeeid].hasOwnProperty(\"EnergyTotal\")) {\n                energy = msg.payload.ZbReceived[zigbeeid].EnergyTotal;\n                energy = { \"topic\": \"domoticz/in\", \"payload\": { \"command\": \"udevice\", \"idx\": idxoptie2, \"svalue\": \"\" + energy + \"\" } };\n            } else {\n                energy = null;\n            }\n        } else {\n            energy = null;\n        }\n\n        value.state = state;\n        value.rssi = rssi;\n        context.set(zigbeeid, value);\n\n        return [[msg, voltage, power, current, energy]];\n    }\n}\n\nif (msg.src === 'domoticz') {\n    let zigbeeid = msg.payload.zigbeeid\n    let topicname = msg.payload.topicname;\n    let msgpower;\n\n    if (msg.payload.nvalue === 1) {\n        msgpower = { \"topic\": \"cmnd/\" + topicname + \"/ZbSend\", \"payload\": { \"Device\": zigbeeid, \"Send\": { \"Power\": 1 } } };\n        return msgpower;\n    } else if (msg.payload.nvalue === 0) {\n        msgpower = { \"topic\": \"cmnd/\" + topicname + \"/ZbSend\", \"payload\": { \"Device\": zigbeeid, \"Send\": { \"Power\": 0 } } };\n        return msgpower;\n    } else {\n        return;\n    }\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1270,
-        "y": 540,
+        "x": 2730,
+        "y": 440,
         "wires": [
             [
                 "e2e2746526d5ea52",
@@ -9975,8 +9979,8 @@
             "8594d9e519e7907b",
             "6f900f263f675bab"
         ],
-        "x": 1005,
-        "y": 540,
+        "x": 2455,
+        "y": 440,
         "wires": [
             [
                 "9639d38023fc8ef8"
@@ -9997,8 +10001,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1740,
-        "y": 540,
+        "x": 3200,
+        "y": 440,
         "wires": []
     },
     {
@@ -10062,8 +10066,8 @@
         "appendNewline": false,
         "createDir": true,
         "overwriteFile": "true",
-        "x": 1510,
-        "y": 660,
+        "x": 1350,
+        "y": 680,
         "wires": [
             []
         ]
@@ -10078,8 +10082,8 @@
         "appendNewline": false,
         "createDir": true,
         "overwriteFile": "true",
-        "x": 1510,
-        "y": 700,
+        "x": 1350,
+        "y": 720,
         "wires": [
             []
         ]
@@ -10188,8 +10192,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1280,
-        "y": 340,
+        "x": 2740,
+        "y": 240,
         "wires": [
             [
                 "a055120ed19f9044",
@@ -10211,8 +10215,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1740,
-        "y": 340,
+        "x": 3200,
+        "y": 240,
         "wires": []
     },
     {
@@ -10224,8 +10228,8 @@
         "links": [
             "694f436c49668d06"
         ],
-        "x": 1005,
-        "y": 340,
+        "x": 2455,
+        "y": 240,
         "wires": [
             [
                 "bece6aa5385e92fa"
@@ -10244,8 +10248,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1280,
-        "y": 300,
+        "x": 2740,
+        "y": 200,
         "wires": [
             [
                 "71b10117abc10427",
@@ -10267,8 +10271,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1740,
-        "y": 300,
+        "x": 3200,
+        "y": 200,
         "wires": []
     },
     {
@@ -10280,8 +10284,8 @@
         "links": [
             "a82f9fadb61abcb2"
         ],
-        "x": 1005,
-        "y": 300,
+        "x": 2455,
+        "y": 200,
         "wires": [
             [
                 "5293ae9cf3d6c668"
@@ -10300,8 +10304,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1290,
-        "y": 260,
+        "x": 2750,
+        "y": 160,
         "wires": [
             [
                 "b3c21a790b269911",
@@ -10323,8 +10327,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1740,
-        "y": 260,
+        "x": 3200,
+        "y": 160,
         "wires": []
     },
     {
@@ -10338,8 +10342,8 @@
             "747b48f4aef4973c",
             "0949a569c2ba16fe"
         ],
-        "x": 1005,
-        "y": 260,
+        "x": 2455,
+        "y": 160,
         "wires": [
             [
                 "8853f3a4da21ed12"
@@ -10358,8 +10362,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2730,
-        "y": 940,
+        "x": 2790,
+        "y": 1200,
         "wires": [
             [
                 "e1ff2de83f9489a5"
@@ -10378,8 +10382,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2730,
-        "y": 1540,
+        "x": 2790,
+        "y": 1800,
         "wires": [
             [
                 "da7de401c93fb6d9"
@@ -10398,8 +10402,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2750,
-        "y": 1040,
+        "x": 2810,
+        "y": 1300,
         "wires": [
             [
                 "e5338bba2c619bba"
@@ -10418,8 +10422,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2750,
-        "y": 1640,
+        "x": 2810,
+        "y": 1900,
         "wires": [
             [
                 "0b16f7168ac62a5a"
@@ -10438,8 +10442,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1290,
-        "y": 220,
+        "x": 2750,
+        "y": 120,
         "wires": [
             [
                 "a055120ed19f9044",
@@ -10461,8 +10465,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1740,
-        "y": 220,
+        "x": 3200,
+        "y": 120,
         "wires": []
     },
     {
@@ -10474,8 +10478,8 @@
         "links": [
             "54aecbceaa8fc8a8"
         ],
-        "x": 1005,
-        "y": 220,
+        "x": 2455,
+        "y": 120,
         "wires": [
             [
                 "6f6fe1db1f77af84"
@@ -10494,8 +10498,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1290,
-        "y": 180,
+        "x": 2750,
+        "y": 80,
         "wires": [
             [
                 "c28e1d455bfdd201",
@@ -10517,8 +10521,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1750,
-        "y": 180,
+        "x": 3210,
+        "y": 80,
         "wires": []
     },
     {
@@ -10532,8 +10536,8 @@
             "f17ee1b1deaf2f61",
             "16a24ac5537ce50d"
         ],
-        "x": 1005,
-        "y": 180,
+        "x": 2455,
+        "y": 80,
         "wires": [
             [
                 "62b9282bdb64fd9b"
@@ -10552,8 +10556,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2730,
-        "y": 540,
+        "x": 2790,
+        "y": 800,
         "wires": [
             [
                 "c32e30cbaf14dacf"
@@ -10588,6 +10592,73 @@
                 "240845503160872e"
             ]
         ]
+    },
+    {
+        "id": "f7df8265de6a63bb",
+        "type": "debug",
+        "z": "3c1abf359e6df878",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1780,
+        "y": 2320,
+        "wires": []
+    },
+    {
+        "id": "d6d350b58ef76d79",
+        "type": "debug",
+        "z": "3c1abf359e6df878",
+        "name": "debug 2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1820,
+        "y": 2500,
+        "wires": []
+    },
+    {
+        "id": "f66d1d7fc935b16f",
+        "type": "debug",
+        "z": "3c1abf359e6df878",
+        "name": "debug 3",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1780,
+        "y": 3180,
+        "wires": []
+    },
+    {
+        "id": "a93fd18f169c6c15",
+        "type": "debug",
+        "z": "3c1abf359e6df878",
+        "name": "debug 4",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1780,
+        "y": 2780,
+        "wires": []
     },
     {
         "id": "f6d80247ef4490ac",
