@@ -1,5 +1,12 @@
+<b>V2 16-10-2023 R1: </b><br>
+- Aangepast: MINIMUM NODERED VERSIE 3, oudere versies niet ondersteunt <br>
+<b>V2 29-08-2023 R1: </b><br>
+- Aangepast: Wanneer een bekend device met config wordt geselecteerd, wordt config getoond in setup nodes <br>
+<b>V2 29-08-2023 R1: </b><br>
+- Toegevoegdd: Sonoff SNZB-02D <br>
+<b>V2 15-06-2023 R1: </b><br>
+- Bug: idxoptie1 functioneerde niet bij Xiaomi Smoke (HS1SA) rookmelder <br>
 <b>V2 25-04-2023 R1: </b><br>
-- Versie V2 is released <br>
-<br>
-Voor V1 komen geen nieuwe releases meer <br>
-Voor repository V1 zie: https://github.com/Hoeby/Sonoff-Zigbee-Tasmota-Nodered-flow <br>
+- Versie 2 is released, zie https://github.com/Hoeby/V2-Sonoff-Zigbee-Tasmota-Nodered-flow <br>
+<b>V2 28-03-2023 R1 Beta: </b><br>
+- Beta test V2 <br>
